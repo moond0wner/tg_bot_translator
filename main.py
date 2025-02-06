@@ -3,7 +3,7 @@ from aiogram import Bot, Dispatcher
 from dotenv import load_dotenv
 import os
 
-from app.handlers import router
+from handlers import router
 
 
 async def main():
