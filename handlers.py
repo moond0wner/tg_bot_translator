@@ -7,7 +7,7 @@ from aiogram.fsm.context import FSMContext
 
 import googletrans
 
-import app.keyboards as kb
+import keyboards as kb
 
 router = Router()
 
